@@ -31,6 +31,8 @@
   
   main {
     display: block;
+    margin: 2rem auto;
+    text-align: center;
   }
   
   /**
@@ -347,4 +349,16 @@
   
   [hidden] {
     display: none;
+  }
+
+  p,a,li {
+    color: #555;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  ul {
+    list-style: none;
   }
