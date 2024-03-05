@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 
 /* Document
@@ -32,7 +36,6 @@
   main {
     display: block;
     margin: 2rem auto;
-    text-align: center;
   }
   
   /**
